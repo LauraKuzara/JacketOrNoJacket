@@ -26,3 +26,5 @@ if (isRaining) {
 else {
     console.log("No rain today, you can leave the umbrella at home!");
 }
+
+isRaining === true? console.log("You need an umbrella!"): console.log("It's not raining, so no umbrella needed!")
